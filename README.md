@@ -4,7 +4,7 @@ Notes on the book Clean Code - A Handbook of Agile Software Craftsmanship by Rob
 # Index
 
 1. [Clean Code](https://github.com/tripleY2014/clean-code/blob/jungining/notebook/chap1-clean-code.md)
-2. Meaningful Names
+2. [Meaningful Names](https://github.com/tripleY2014/clean-code/blob/jungining/notebook/chap2-meaningful-name.md)
 3. Functions
 4. Comments
 5. Formatting
