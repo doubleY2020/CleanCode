@@ -3,8 +3,8 @@ Notes on the book Clean Code - A Handbook of Agile Software Craftsmanship by Rob
 
 # Index
 
-1. Clean Code
-2. Meaningful Names
+1. [Clean Code](./notebook/chap1-clean-code.md)
+2. [Meaningful Names](./notebook/chap2-meaningful-names.md)
 3. Functions
 4. Comments
 5. Formatting
