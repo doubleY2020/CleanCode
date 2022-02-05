@@ -119,3 +119,4 @@ report.appendFooter();
 - 먼저 생각을 기록한 후 읽기 좋게 다듬는다.
 
 ## 결론
+https://github.com/tripleY2014/clean-code/commit/eb9fe357ce4baae7945629c54d8a71b609b9e5d8#diff-ccecd14d4b128844ee156c6b1f1be88de4392c4e8aa9a2358847aab67c54fc41
