@@ -43,7 +43,7 @@
 - bad example : int[] values
 - good example : int values[]
 
-## 의미 있는 이름
+## 2. 의미 있는 이름
 
 1. 의도를 분명히 밝혀라.
 - 코드 맥락이 코드에 드러나게 작성하기
