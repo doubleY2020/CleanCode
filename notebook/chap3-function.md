@@ -13,9 +13,9 @@
 - 함수는 한 가지를 해야 한다. 그 한가지를 잘 해야 한다. 그 한 가지만을 해야 한다.
 - `한 가지`란 무엇인가?
   - 지정된 함수 이름 아래에서 추상화 수준이 하나인 단계만 수행하는 것.
-> renderPageWithSetupsAndTeardowns(PageData pageData, boolean isSuite) 에서..
-> 페이지가 테스트 페이지인지 확인한 후, 테스트 페이지라면 설정 페이지와 해제 페이지를 넣는다.
-> 테스트 페이지든 아니든, 페이지를 HTML로 렌더링한다.
+> renderPageWithSetupsAndTeardowns(PageData pageData, boolean isSuite) 에서..  
+> 페이지가 테스트 페이지인지 확인한 후, 테스트 페이지라면 설정 페이지와 해제 페이지를 넣는다.  
+> 테스트 페이지든 아니든, 페이지를 HTML로 렌더링한다.  
 
 ### 함수 내 섹션
 - 한 함수에서 한 가지 작업만 하는 함수는 자연스럽게 섹션으로 나누기 어렵다.
@@ -23,9 +23,9 @@
 
 ## 함수 당 추상화 수준은 하나로 !
 - 함수 내 모든 문장의 추상화 수준이 동일해야 함수가 확실히 한 가지 작업만 할 수 있다.
-> getHtml() -> 높음
-> String setupPathName = PathParser.render(setupPath); -> 중간
-> .append("\n") -> 아주 낮음
+> getHtml() -> 높음  
+> String setupPathName = PathParser.render(setupPath); -> 중간  
+> .append("\n") -> 아주 낮음  
 
 - 한 함수 내에 추상화 수준을 섞으면 코드를 읽는 사람이 헷갈린다.
 
@@ -93,7 +93,7 @@ report.appendFooter();
 
 ## 오류 코드보다 예외를 사용하라 !
 - 함수 결과로 오류 코드를 반환하는 방식은 여러 단계로 중첩되는 코드를 야기한다.
-> 호출자는 오류 코드를 곧바로 처리해야 한다는 문제가 있다 -> ?
+> 호출자는 오류 코드를 곧바로 처리해야 한다는 문제가 있다 -> ?  
 > http request handling 하는 경우는 ?  
 
 - 예외를 사용하면 오류 처리 코드가 원래 코드에서 분리되므로 코드가 깔끔해진다.
