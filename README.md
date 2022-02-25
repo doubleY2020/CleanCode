@@ -6,8 +6,8 @@ Notes on the book Clean Code - A Handbook of Agile Software Craftsmanship by Rob
 1. [Clean Code](https://github.com/tripleY2014/clean-code/blob/jungining/notebook/chap1-clean-code.md)
 2. [Meaningful Names](https://github.com/tripleY2014/clean-code/blob/jungining/notebook/chap2-meaningful-name.md)
 3. [Functions](https://github.com/tripleY2014/clean-code/blob/jungining/notebook/chap3-functions.md)
-4. Comments
-5. Formatting
+4. [Comments](https://github.com/tripleY2014/clean-code/blob/jungining/notebook/chap4-comments.md)
+5. [Formatting](https://github.com/tripleY2014/clean-code/blob/jungining/notebook/chap5-formatting.md)
 6. Objects and Data Structures
 7. Error Handling
 8. Boundaries
