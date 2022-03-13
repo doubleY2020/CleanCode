@@ -9,7 +9,7 @@ Notes on the book Clean Code - A Handbook of Agile Software Craftsmanship by Rob
 4. [Comments](https://github.com/tripleY2014/clean-code/blob/jungining/notebook/chap4-comments.md)
 5. [Formatting](https://github.com/tripleY2014/clean-code/blob/jungining/notebook/chap5-formatting.md)
 6. [Objects and Data Structures](https://github.com/tripleY2014/clean-code/blob/jungining/notebook/chap6-objects-and-data-structures.md)
-7. Error Handling
+7. [Error Handling](https://github.com/tripleY2014/clean-code/blob/jungining/notebook/chap7-error-handling.md)
 8. Boundaries
 9. Unit Tests
 10. Classes
