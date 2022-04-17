@@ -19,7 +19,7 @@ public class RedFlowerCounter(){
   }
   
   private List<Flower> fliter(List<Flower> flowers){
-    return flowers.stream().filter( f -> f.getColor().eqauls(COLOR).collect(Collectors.toList()));
+    return flowers.stream().filter( f -> f.getColor().eqauls(COLOR) ).collect(Collectors.toList());
   }
   ... 
 }
